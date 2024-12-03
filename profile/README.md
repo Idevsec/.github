@@ -6,7 +6,7 @@ Idevsec is an open-source initiative dedicated to advancing cybersecurity by bui
 
 ---
 
-### Getting Started  
+## Getting Started  
 Idevsec provides a powerful open-source tool designed to help security professionals, ethical hackers, and security teams enhance their workflows. Our tool is crafted to identify vulnerabilities, automate scans, and streamline security assessments effectively.  
 
 - **Get Started for Free**: Our tool is open-source and ready to use. Download and explore it today!  
@@ -15,7 +15,7 @@ Idevsec provides a powerful open-source tool designed to help security professio
 
 ---
 
-### Open Source Tool  
+## Open Source Tool  
 Our flagship tool empowers users with simplicity, speed, and reliability to strengthen their cybersecurity capabilities.  
 
 **Tool Name**: **GuardX**  
@@ -28,7 +28,7 @@ Explore it on [GitHub](https://github.com/Idevsec) and join a growing community 
 
 ---
 
-### Community  
+## Community  
 Be part of a thriving network of cybersecurity enthusiasts, security engineers, developers, and ethical hackers. Collaborate on challenges, share resources, and grow together.  
 
 - **Join our [Discord](https://discord.gg/5Awrg57cJC)**: Engage in discussions, seek help, and stay updated.  
@@ -39,7 +39,7 @@ Be part of a thriving network of cybersecurity enthusiasts, security engineers, 
 
 ---
 
-### Contributing  
+## Contributing  
 We welcome your contributions to improve and expand our tool. Whether it's reporting bugs, suggesting new features, or submitting code, every effort makes a difference.  
 
 **How You Can Contribute:**  
@@ -49,7 +49,7 @@ We welcome your contributions to improve and expand our tool. Whether it's repor
 
 ---
 
-### **Work With Us**  
+## **Work With Us**  
 Idevsec is on a mission to innovate in cybersecurity. If you're passionate about our vision of democratizing security, let’s collaborate!
 
 **Contact Us**:  
@@ -62,5 +62,5 @@ Idevsec is on a mission to innovate in cybersecurity. If you're passionate about
 
 ---
 
-### Other Questions  
+## Other Questions  
 For inquiries or additional support, reach out to us at [hello@idevsec.com](mailto:hello@idevsec.com). We’re here to help and build a secure digital world together!  
